@@ -43,6 +43,8 @@
 - id: doi:10.1002/tpg2.20197
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
   extra-links:
+    - type: journal
+      link: https://doi.org/10.1002/tpg2.20197
     - type: preprint
       link: https://doi.org/10.1101/2021.09.24.461734
     - type: github
@@ -58,6 +60,8 @@
 - id: doi:10.1002/ppj2.20040
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
   extra-links:
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20040
     - type: preprint
       link: https://doi.org/10.1101/2021.04.30.441802
     - type: github
@@ -71,5 +75,8 @@
 # breedbase
 - id: doi:10.1093/g3journal/jkac078
   image: https://breedbase.org/img/Breedbase_HighRes.png
+  extra-links:
+    - type: journal
+    -link: https://doi.org/10.1093/g3journal/jkac078
   tags:
     - data management
