@@ -1,73 +1,87 @@
-- id: doi:10.3835/plantgenome2012.05.0005
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/1b72a9c4-f075-4290-a68c-cf4d7aa187d6/tpg2plantgenome2012050005-fig-0003-m.jpg
-  tags:
-    - genotyping
-    - review
-    - gbs
-
-- id: doi:10.2135/cropsci2013.08.0579
-  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
-  repo: PhenoApps/Field-Book
-  extra-links:
-    - type: source
-      link: https://github.com/PhenoApps/Field-Book
-      text: Source
-  tags:
-    - phenoapps
-    - plant breeding
-
-- id: doi:10.1186/s12864-015-1404-9
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-015-1404-9/MediaObjects/12864_2015_1404_Fig3_HTML.gif?as=webp
-  tags:
-    - genotyping
-    - gbs
-
-- id: doi:10.3835/plantgenome2018.01.0004
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
-  tags:
-    - wheat
-    - plant breeding
-
-- id: doi:10.1007/s00122-018-3107-5
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-018-3107-5/MediaObjects/122_2018_3107_Fig1_HTML.png?as=webp
-  tags:
-    - wheat
-    - pre-harvest sprouting
-
-- id: doi:10.1093/bioinformatics/btz190
-  image: https://brapi.org/images/brapi-logo.svg
-  repo: plantbreeding/BrAPI
-  extra-links:
-    - type: source
-      link: https://github.com/plantbreeding/BrAPI
-      text: Source
-  tags:
-    - api
-
-- id: doi:10.1007/s00122-020-03712-y
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-020-03712-y/MediaObjects/122_2020_3712_Fig4_HTML.png?as=webp
-  tags:
-    - wheat
-
+# prospector
 - id: doi:10.1002/ppj2.20024
-  image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
-  repo: PhenoApps/Prospector
+  image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
   date: "2021-09-22"
   extra-links:
-    - type: source
-      link: https://github.com/PhenoApps/Prospector
-      text: Source
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20024
+    - type: preprint
+      link: https://arxiv.org/abs/2104.07071v1
+    - type: googleplay
+      link: org.phenoapps.prospector
   tags:
-    - phenoapps
-    - NIR
+    - spectroscopy
+    - data management
 
-- id: doi:10.1002/csc2.20702
-  image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
-  repo: PhenoApps/Intercross
+# waves
+- id: doi:10.1002/ppj2.20012
+  image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
+  date: "2021-03-15"
   extra-links:
-    - type: source
-      link: https://github.com/PhenoApps/Intercross
-      text: Source
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20012
+    - type: preprint
+      link: https://doi.org/10.1101/2020.09.18.278549
+    - type: github
+      link: GoreLab/waves
+    - type: package
+      link: https://CRAN.R-project.org/package=waves
   tags:
-    - phenoapps
-    - plant breeding
+    - spectroscopy
+    - R
+    - data management
+
+# COBP review
+- id: doi:10.1016/j.pbi.2021.102150
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
+  date: "2022-02-01"
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.1016/j.pbi.2021.102150
+  tags:
+    - spectroscopy
+    - phenomic selection
+
+# sweet corn transcriptomics
+- id: doi:10.1002/tpg2.20197
+  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
+  date: "2022-03-08"
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.1002/tpg2.20197
+    - type: preprint
+      link: https://doi.org/10.1101/2021.09.24.461734
+    - type: github
+      link: GoreLab/SweetCornRNA
+    - type: data
+      link: https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/Hershberger_SweetCornRNA_2021
+  tags:
+    - transcriptomics
+    - sweet corn
+    - nutritional quality
+
+# cassava nirs
+- id: doi:10.1002/ppj2.20040
+  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
+  date: "2022-03-31"
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20040
+    - type: preprint
+      link: https://doi.org/10.1101/2021.04.30.441802
+    - type: github
+      link: GoreLab/CassavaNIRS
+    - type: data
+      link: https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/Hershberger_CassavaNIRS_2021
+  tags:
+    - spectroscopy
+    - cassava
+
+- id: doi:10.1093/g3journal/jkac078
+  image: https://breedbase.org/img/Breedbase_HighRes.png
+  date: "2022-04-06"
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.1093/g3journal/jkac078
+  tags:
+    - data management
