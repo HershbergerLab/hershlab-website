@@ -77,6 +77,6 @@
   image: https://breedbase.org/img/Breedbase_HighRes.png
   extra-links:
     - type: journal
-    -link: https://doi.org/10.1093/g3journal/jkac078
+    - link: https://doi.org/10.1093/g3journal/jkac078
   tags:
     - data management
