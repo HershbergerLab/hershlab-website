@@ -47,22 +47,6 @@
   tags:
   - genotyping
   - gbs
-- id: doi:10.1111/gcb.13163
-  title: "Quantifying variety\u2010specific heat resistance and the potential for\
-    \ adaptation to climate change"
-  authors:
-  - Jesse Tack
-  - Andrew Barkley
-  - Trevor W. Rife
-  - Jesse A. Poland
-  - Lawton Lanier Nalley
-  publisher: Global Change Biology
-  date: '2016-05-10'
-  link: https://doi.org/f8wn93
-  image: images/publications/tack2015.jpg
-  tags:
-  - climate change
-  - wheat
 - id: doi:10.3835/plantgenome2018.01.0004
   title: Genomic Analysis and Prediction within a US Public Collaborative Winter Wheat
     Regional Testing Nursery
@@ -74,20 +58,6 @@
   date: '2018-11-01'
   link: https://doi.org/gfvkk6
   image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
-  tags:
-  - wheat
-  - plant breeding
-- id: doi:10.2135/cropsci2018.01.0073
-  title: "A Field\u2010Based Analysis of Genetic Improvement for Grain Yield in Winter\
-    \ Wheat Cultivars Developed in the US Central Plains from 1992 to 2014"
-  authors:
-  - Trevor W. Rife
-  - Robert A. Graybosch
-  - Jesse A. Poland
-  publisher: Crop Science
-  date: '2019-05-01'
-  link: https://doi.org/gpzkw4
-  image: images/publications/rife2019.png
   tags:
   - wheat
   - plant breeding
@@ -228,7 +198,7 @@
   - Mitchell Neilsen
   - Jesse Poland
   publisher: The Plant Phenome Journal
-  date: '1900-01-01'
+  date: '2021-09-22'
   link: https://doi.org/gn9hhw
   image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   extra-links:
