@@ -13,7 +13,7 @@
 - title: Sweet corn transcriptomics
   group: featured
   image: images/research/sweetcornplot.png
-  journal: https://doi.org/10.1002/tpg2.20197
+  link: https://doi.org/10.1002/tpg2.20197
   description: We used fresh sweet corn kernel 3'RNAseq for transcriptome-wide association and prediction of carotenoid and tocochromanol content.
   repo: GoreLab/SweetCornRNA/
   tags:
