@@ -1,7 +1,6 @@
 # prospector
 - id: doi:10.1002/ppj2.20024
   image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
-  date: 2021-09-22
   extra-links:
     - type: journal
       link: https://doi.org/10.1002/ppj2.20024
@@ -16,7 +15,6 @@
 # waves
 - id: doi:10.1002/ppj2.20012
   image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
-  date: 2021-03-15
   extra-links:
     - type: journal
       link: https://doi.org/10.1002/ppj2.20012
@@ -34,7 +32,6 @@
 # COPB review
 - id: doi:10.1016/j.pbi.2021.102150
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
-  date: 2021-12-06
   extra-links:
     - type: journal
       link: https://doi.org/10.1016/j.pbi.2021.102150
@@ -45,7 +42,6 @@
 # sweet corn transcriptomics
 - id: doi:10.1002/tpg2.20197
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
-  date: 2022-03-08
   extra-links:
     - type: preprint
       link: https://doi.org/10.1101/2021.09.24.461734
@@ -61,7 +57,6 @@
 # cassava nirs
 - id: doi:10.1002/ppj2.20040
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
-  date: 2022-03-31
   extra-links:
     - type: preprint
       link: https://doi.org/10.1101/2021.04.30.441802
@@ -76,6 +71,5 @@
 # breedbase
 - id: doi:10.1093/g3journal/jkac078
   image: https://breedbase.org/img/Breedbase_HighRes.png
-  date: 2022-04-06
   tags:
     - data management
