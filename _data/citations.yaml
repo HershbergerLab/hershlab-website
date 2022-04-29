@@ -1,64 +1,196 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1002/ppj2.20024
+  title: "Prospector: A mobile application for portable, high\u2010throughput near\u2010\
+    infrared spectroscopy phenotyping"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Trevor W. Rife
+  - Chaney Courtney
+  - Jenna Hershberger
+  - Michael Allen Gore
+  - Mitchell Neilsen
+  - Jesse Poland
+  publisher: The Plant Phenome Journal
+  date: 1900-1-1
+  link: https://doi.org/gn9hhw
+  image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - type: journal
+    link: https://doi.org/10.1002/ppj2.20024
+  - type: preprint
+    link: https://arxiv.org/abs/2104.07071v1
+  - type: googleplay
+    link: org.phenoapps.prospector
   tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - spectroscopy
+  - data management
+- id: doi:10.1002/ppj2.20012
+  title: "Making waves in Breedbase: An integrated spectral data storage and analysis\
+    \ pipeline for plant breeding\_programs"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+  - Jenna Hershberger
+  - Nicolas Morales
+  - Christiano C. Simoes
+  - Bryan Ellerbrock
+  - Guillaume Bauchet
+  - Lukas A. Mueller
+  - Michael A. Gore
+  publisher: The Plant Phenome Journal
+  date: 1900-1-1
+  link: https://doi.org/gn9hh6
+  image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - type: journal
+    link: https://doi.org/10.1002/ppj2.20012
+  - type: preprint
+    link: https://doi.org/10.1101/2020.09.18.278549
+  - type: github
+    link: GoreLab/waves
+  - type: package
+    link: https://CRAN.R-project.org/package=waves
+  tags:
+  - spectroscopy
+  - R
+  - data management
+- id: doi:10.1016/j.pbi.2021.102150
+  title: Re-imagining crop domestication in the era of high throughput phenomics
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - David L. Van Tassel
+  - Lee R. DeHaan
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Matthew J. Rubin
+  - Brandon Schlautman
+  - Kathryn Turner
+  - Allison J. Miller
+  publisher: Current Opinion in Plant Biology
+  date: 1900-1-1
+  link: https://doi.org/gnzbd6
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
+  extra-links:
+  - type: journal
+    link: https://doi.org/10.1016/j.pbi.2021.102150
+  tags:
+  - spectroscopy
+  - phenomic selection
+- id: doi:10.1002/tpg2.20197
+  title: "Transcriptome\u2010wide association and prediction for carotenoids and tocochromanols\
+    \ in fresh sweet corn kernels"
+  authors:
+  - Jenna Hershberger
+  - Ryokei Tanaka
+  - Joshua C. Wood
+  - Nicholas Kaczmar
+  - Di Wu
+  - John P. Hamilton
+  - Dean DellaPenna
+  - C. Robin Buell
+  - Michael A. Gore
+  publisher: The Plant Genome
+  date: 1900-1-1
+  link: https://doi.org/gpzmnc
+  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
   extra-links:
   - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+    link: https://doi.org/10.1101/2021.09.24.461734
+  - type: github
+    link: GoreLab/SweetCornRNA
+  - type: data
+    link: https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/Hershberger_SweetCornRNA_2021
+  tags:
+  - transcriptomics
+  - sweet corn
+  - nutritional quality
+- id: doi:10.1002/ppj2.20040
+  title: "Low\u2010cost, handheld near\u2010infrared spectroscopy for root dry matter\
+    \ content prediction in cassava"
+  authors:
+  - Jenna Hershberger
+  - Edwige Gaby Nkouaya Mbanjo
+  - Prasad Peteti
+  - Andrew Ikpan
+  - Kayode Ogunpaimo
+  - Kehinde Nafiu
+  - Ismail Y. Rabbi
+  - Michael A. Gore
+  publisher: The Plant Phenome Journal
+  date: 1900-1-1
+  link: https://doi.org/gpzmnd
+  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2021.04.30.441802
+  - type: github
+    link: GoreLab/CassavaNIRS
+  - type: data
+    link: https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/Hershberger_CassavaNIRS_2021
+  tags:
+  - spectroscopy
+  - cassava
+- id: doi:10.1093/g3journal/jkac078
+  title: 'Breedbase: a digital ecosystem for modern plant breeding'
+  authors:
+  - Nicolas Morales
+  - Alex C Ogbonna
+  - Bryan J Ellerbrock
+  - Guillaume J Bauchet
+  - Titima Tantikanjana
+  - Isaak Y Tecle
+  - Adrian F Powell
+  - David Lyon
+  - Naama Menda
+  - Christiano C Simoes
+  - Surya Saha
+  - Prashant Hosmani
+  - Mirella Flores
+  - Naftali Panitz
+  - Ryan S Preble
+  - Afolabi Agbona
+  - Ismail Rabbi
+  - Peter Kulakow
+  - Prasad Peteti
+  - Robert Kawuki
+  - Williams Esuma
+  - Micheal Kanaabi
+  - Doreen M Chelangat
+  - Ezenwanyi Uba
+  - Adeyemi Olojede
+  - Joseph Onyeka
+  - Trushar Shah
+  - Margaret Karanja
+  - Chiedozie Egesi
+  - Hale Tufan
+  - Agre Paterne
+  - Asrat Asfaw
+  - Jean-Luc Jannink
+  - Marnin Wolfe
+  - Clay L Birkett
+  - David J Waring
+  - Jenna M Hershberger
+  - Michael A Gore
+  - Kelly R Robbins
+  - Trevor Rife
+  - Chaney Courtney
+  - Jesse Poland
+  - Elizabeth Arnaud
+  - "Marie-Ang\xE9lique Laporte"
+  - Heneriko Kulembeka
+  - Kasele Salum
+  - Emmanuel Mrema
+  - Allan Brown
+  - Stanley Bayo
+  - Brigitte Uwimana
+  - Violet Akech
+  - Craig Yencho
+  - Bert de Boeck
+  - Hugo Campos
+  - Rony Swennen
+  - Jeremy D Edwards
+  - Lukas A Mueller
+  publisher: G3 Genes|Genomes|Genetics
+  date: 1900-1-1
+  link: https://doi.org/gpzmnf
+  image: https://breedbase.org/img/Breedbase_HighRes.png
+  tags:
+  - data management
