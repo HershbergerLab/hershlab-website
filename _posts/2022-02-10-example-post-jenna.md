@@ -1,11 +1,9 @@
 ---
-title: Example post 1
+title: Example post by Jenna
 tags:
-  - biology
-  - medicine
-  - big data
-author: Anne Chovie
-member: anne-chovie
+  - spectroscopy
+author: Jenna Hershberger
+member: jenna-hershberger
 ---
 
 # Heading 1

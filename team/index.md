@@ -59,6 +59,8 @@ nav:
 %}
 {:.center}
 
+{% include section.html %}
+
 ## Join us!
 
 #### Vegetable Breeding Technician (Research Specialist II)
