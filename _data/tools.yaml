@@ -1,47 +1,27 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+
+
+- name: waves
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/research/waveslogo.png
+  link: https://gorelab.github.io/waves/
+  description: Originally designed application in the context of
+    resource-limited plant research and breeding programs, 'waves'
+    provides an open-source solution to spectral data processing and model
+    development by bringing useful packages together into a streamlined
+    pipeline.
+  repo: GoreLab/waves/
 
-- title: Cool Package
-  subtitle: a subtitle
+- name: Sweet corn transcriptomics
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/research/sweetcornplot.png
+  journal: https://doi.org/10.1002/tpg2.20197
+  description: We used fresh sweet corn kernel 3'RNAseq for transcriptome-wide association and prediction of carotenoid and tocochromanol content.
+  repo: GoreLab/SweetCornRNA/
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  - name: Cassava NIRS
+    group: featured
+    image: images/research/nacrri.jpg
+    link: https://gorelab.github.io/CassavaNIRS/
+    journal: https://doi.org/10.1002/ppj2.20040
+    description: Working closely with collaborators at IITA, we successfully predicted root dry matter content with a handheld near-infrared spectrometer.
+    repo: GoreLab/CassavaNIRS/
