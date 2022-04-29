@@ -92,6 +92,8 @@
   link: https://doi.org/gpzmnc
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
   extra-links:
+  - type: journal
+    link: https://doi.org/10.1002/tpg2.20197
   - type: preprint
     link: https://doi.org/10.1101/2021.09.24.461734
   - type: github
@@ -119,6 +121,8 @@
   link: https://doi.org/gpzmnd
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
   extra-links:
+  - type: journal
+    link: https://doi.org/10.1002/ppj2.20040
   - type: preprint
     link: https://doi.org/10.1101/2021.04.30.441802
   - type: github
@@ -194,3 +198,6 @@
   image: https://breedbase.org/img/Breedbase_HighRes.png
   tags:
   - data management
+  extra-links:
+  - type: journal
+  - link: https://doi.org/10.1093/g3journal/jkac078
