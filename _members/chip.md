@@ -2,7 +2,7 @@
 name: Chip
 image: images/team/chip.jpg
 description:
-role: mascot
+role: mascot-d
 aliases:
   - Chippy
 ---
