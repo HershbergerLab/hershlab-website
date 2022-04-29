@@ -1,4 +1,3 @@
-# prospector
 - id: doi:10.1002/ppj2.20024
   image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
   extra-links:
@@ -12,7 +11,6 @@
     - spectroscopy
     - data management
 
-# waves
 - id: doi:10.1002/ppj2.20012
   image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
   extra-links:
@@ -29,7 +27,6 @@
     - R
     - data management
 
-# COPB review
 - id: doi:10.1016/j.pbi.2021.102150
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
   extra-links:
@@ -39,7 +36,6 @@
     - spectroscopy
     - phenomic selection
 
-# sweet corn transcriptomics
 - id: doi:10.1002/tpg2.20197
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
   extra-links:
@@ -56,7 +52,6 @@
     - sweet corn
     - nutritional quality
 
-# cassava nirs
 - id: doi:10.1002/ppj2.20040
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
   extra-links:
@@ -72,11 +67,10 @@
     - spectroscopy
     - cassava
 
-# breedbase
 - id: doi:10.1093/g3journal/jkac078
   image: https://breedbase.org/img/Breedbase_HighRes.png
   extra-links:
     - type: journal
-    - link: https://doi.org/10.1093/g3journal/jkac078
+      link: https://doi.org/10.1093/g3journal/jkac078
   tags:
     - data management
