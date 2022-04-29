@@ -22,20 +22,8 @@
     - genotyping
     - gbs
 
-- id: doi:10.1111/gcb.13163
-  image: images/publications/tack2015.jpg
-  tags:
-    - climate change
-    - wheat
-
 - id: doi:10.3835/plantgenome2018.01.0004
   image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
-  tags:
-    - wheat
-    - plant breeding
-
-- id: doi:10.2135/cropsci2018.01.0073
-  image: images/publications/rife2019.png
   tags:
     - wheat
     - plant breeding
@@ -64,6 +52,7 @@
 - id: doi:10.1002/ppj2.20024
   image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Prospector
+  date: "2021-09-22"
   extra-links:
     - type: source
       link: https://github.com/PhenoApps/Prospector

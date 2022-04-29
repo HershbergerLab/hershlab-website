@@ -94,10 +94,10 @@ linkedin:
 
 googleplay:
   icon: fab fa-google-play
-  text: Google play
-  tooltip: Google play
+  text: Google Play
+  tooltip: Google Play
   link: https://play.google.com/store/apps/details?id=$LINK
-  
+
 # publications
 
 journal:
