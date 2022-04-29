@@ -12,7 +12,7 @@
   - Mitchell Neilsen
   - Jesse Poland
   publisher: The Plant Phenome Journal
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gn9hhw
   image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
   extra-links:
@@ -37,7 +37,7 @@
   - Lukas A. Mueller
   - Michael A. Gore
   publisher: The Plant Phenome Journal
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gn9hh6
   image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
   extra-links:
@@ -65,7 +65,7 @@
   - Kathryn Turner
   - Allison J. Miller
   publisher: Current Opinion in Plant Biology
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gnzbd6
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
   extra-links:
@@ -88,7 +88,7 @@
   - C. Robin Buell
   - Michael A. Gore
   publisher: The Plant Genome
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gpzmnc
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
   extra-links:
@@ -115,7 +115,7 @@
   - Ismail Y. Rabbi
   - Michael A. Gore
   publisher: The Plant Phenome Journal
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gpzmnd
   image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
   extra-links:
@@ -189,7 +189,7 @@
   - Jeremy D Edwards
   - Lukas A Mueller
   publisher: G3 Genes|Genomes|Genetics
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gpzmnf
   image: https://breedbase.org/img/Breedbase_HighRes.png
   tags:
