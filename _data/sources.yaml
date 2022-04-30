@@ -77,8 +77,9 @@
     - spectroscopy
     - cassava
 
+# breedbase
 - id: doi:10.1093/g3journal/jkac078
-  image: https://breedbase.org/img/Breedbase_HighRes.png
+  image: images/publications/Breedbase_HighRes.svg
   date: "2022-04-06"
   extra-links:
     - type: journal
