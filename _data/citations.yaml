@@ -196,7 +196,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2022-04-06'
   link: https://doi.org/gpzmnf
-  image: https://breedbase.org/img/Breedbase_HighRes.png
+  image: images/publications/Breedbase_HighRes.svg
   extra-links:
   - type: journal
     link: https://doi.org/10.1093/g3journal/jkac078
