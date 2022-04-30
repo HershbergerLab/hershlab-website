@@ -21,6 +21,14 @@ Using tools from genomics, proximal sensing, and computer programming, the Hersh
 
 {% include section.html %}
 
+## Our work falls under the following aims:
+
+1. Establish efficient and stakeholder-driven vegetable breeding programs focused on nutritional quality and flavor
+2. Characterize the genetic variation for and control of target traits
+3. Develop and evaluate new phenotyping methods for the quantification of nutritional and consumer preferred quality traits in vegetable crops
+
+{% include section.html %}
+
 ## Featured projects
 
 {% include list.html component="card" data="tools" filters="group: featured" %}

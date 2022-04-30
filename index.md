@@ -6,15 +6,12 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We strive to share our research with the broader scientific community, prioritizing transparency, rigor, and reproducibility.
 
 {%
   include link.html
@@ -28,14 +25,35 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/home/carrot_flower.jpeg"
-  link="research"
-  title="Vegetable research and breeding"
+  image="images/research/sweetcornplot.png"
+  link="publications"
+  title="Our publications"
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are working to characterize, understand, and improve nutritional quality and flavor in vegetables.
+
+{%
+  include link.html
+  link="research"
+  text="Vegetable research and breeding"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/home/carrot_flower.jpeg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+{% capture text %}
+We're hiring graduate students and a technician! Find descriptions on our [Team page](team).
 
 {%
   include link.html
@@ -54,6 +72,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
