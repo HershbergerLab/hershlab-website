@@ -45,7 +45,6 @@ Clemson Pee Dee Research & Education Center
 2200 Pocket Rd. Florence, SC  29506
 {:.center}
 
-{% capture col1 %}
 {%
   include gallery.html
   image1="images/contact/pdr-office.jpg"
