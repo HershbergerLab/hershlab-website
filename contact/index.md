@@ -11,6 +11,13 @@ The Hershberger lab is in the [Department of Plant and Environmental Science](ht
 We are located at the [Pee Dee Research & Education Center](https://www.clemson.edu/cafls/research/peedee/) in Florence, South Carolina.
 
 {%
+  include figure.html
+  image="images/contact/clemson_pes_logo.png"
+  link="https://www.clemson.edu/cafls/plant-environmental-sciences/index.html"
+  width="400px"
+%}
+
+{%
   include link.html
   type="email"
   icon=""
@@ -40,14 +47,7 @@ Clemson Pee Dee Research & Education Center
 
 {% capture col1 %}
 {%
-  include figure.html
-  image="images/contact/pdr-office.jpg"
+  include gallery.html
+  image1="images/contact/pdr-office.jpg"
+  image2="images/contact/pdr-overhead.jpg"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/contact/pdr-overhead.jpg"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
