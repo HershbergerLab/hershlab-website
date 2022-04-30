@@ -1,6 +1,6 @@
 # prospector
 - id: doi:10.1002/ppj2.20024
-  image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
+  image: images/publications/prospector-icon.png
   date: "2021-09-22"
   extra-links:
     - type: journal
@@ -33,7 +33,7 @@
 
 # COBP review
 - id: doi:10.1016/j.pbi.2021.102150
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
+  image: images/publications/vantassel2022.jpeg
   date: "2022-02-01"
   extra-links:
     - type: journal
@@ -44,7 +44,7 @@
 
 # sweet corn transcriptomics
 - id: doi:10.1002/tpg2.20197
-  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
+  image: images/research/sweetcornplot.png
   date: "2022-03-08"
   extra-links:
     - type: journal
@@ -79,7 +79,7 @@
 
 # breedbase
 - id: doi:10.1093/g3journal/jkac078
-  image: images/publications/Breedbase_HighRes.svg
+  image: images/publications/morales2022.png
   date: "2022-04-06"
   extra-links:
     - type: journal
