@@ -14,7 +14,7 @@
   publisher: The Plant Phenome Journal
   date: '2021-09-22'
   link: https://doi.org/gn9hhw
-  image: https://play-lh.googleusercontent.com/VQ6Zl0NTlOSbssmUbxFr6u76uRaxgCGoTSlvMD-xshcsRsn-BaI_xs44tHX6yslJcw=s360
+  image: images/publications/prospector-icon.png
   extra-links:
   - type: journal
     link: https://doi.org/10.1002/ppj2.20024
@@ -68,7 +68,7 @@
   publisher: Current Opinion in Plant Biology
   date: '2022-02-01'
   link: https://doi.org/gnzbd6
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369526621001515-gr1.jpg
+  image: images/publications/vantassel2022.jpeg
   extra-links:
   - type: journal
     link: https://doi.org/10.1016/j.pbi.2021.102150
@@ -91,7 +91,7 @@
   publisher: The Plant Genome
   date: '2022-03-08'
   link: https://doi.org/gpzmnc
-  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/lab_landscape.jpg
+  image: images/research/sweetcornplot.png
   extra-links:
   - type: journal
     link: https://doi.org/10.1002/tpg2.20197
@@ -196,7 +196,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2022-04-06'
   link: https://doi.org/gpzmnf
-  image: images/publications/Breedbase_HighRes.svg
+  image: images/publications/morales2022.png
   extra-links:
   - type: journal
     link: https://doi.org/10.1093/g3journal/jkac078
