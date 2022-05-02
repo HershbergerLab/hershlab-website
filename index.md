@@ -4,8 +4,6 @@ title: Home
 
 # Coming soon to Clemson University
 
-{% include section.html full=true %}
-
 {% include section.html %}
 
 # Highlights
@@ -32,7 +30,7 @@ We strive to share our research with the broader scientific community, prioritiz
 %}
 
 {% capture text %}
-We are working to characterize, understand, and improve nutritional quality and flavor in vegetables.
+We are working to characterize, understand, and improve nutritional quality and flavor in vegetables. Stay tuned as we figure out *which* vegetables...
 
 {%
   include link.html
@@ -49,11 +47,12 @@ We are working to characterize, understand, and improve nutritional quality and 
   image="images/home/carrot_flower.jpeg"
   link="research"
   title="Our Research"
+  flip=true
   text=text
 %}
 
 {% capture text %}
-We're hiring graduate students and a technician! Find descriptions on our [Team page](team).
+We're currently hiring graduate students and a technician. Find descriptions and applications links on our [Team page](team).
 
 {%
   include link.html
@@ -69,6 +68,6 @@ We're hiring graduate students and a technician! Find descriptions on our [Team 
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Join us!"
   text=text
 %}
