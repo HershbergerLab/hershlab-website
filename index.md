@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Coming soon to Clemson University
+# Vegetable Breeding & Genetics at Clemson University
 
 {% include section.html %}
 
@@ -66,7 +66,7 @@ We're currently hiring graduate students and a technician. Find descriptions and
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/planting_lunatus.jpg"
   link="team"
   title="Join us!"
   text=text

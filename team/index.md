@@ -65,13 +65,16 @@ nav:
 
 {% include section.html %}
 
+We are always looking for talented, passionate people to join the lab! If you have a strong interest in quantitative genetics, plant breeding, vegetable quality characteristics, or data science, please get in touch!
+
+
 #### Vegetable Breeding Technician (Research Specialist II)
 
 We are hiring a technician to help start and run a vegetable breeding program focused on improving flavor and nutritional quality. This full time, in-person position will be located at the Clemson University Pee Dee Research & Education Center in Florence, SC.
 
  - Responsible for providing support to plant breeding laboratory and field research
  - Expected to assist in a variety of advanced analytical techniques and perform other duties as assigned
- - Apply by May 20, 2022
+ - Apply by May 31, 2022
 
 {% include link.html type="external" link="https://jobs.clemson.edu/psc/ps/JOBS/EXT/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=106623&PostingSeq=1 " text="Apply Now" icon="" style="button" %}
 {:.center}
@@ -79,9 +82,16 @@ We are hiring a technician to help start and run a vegetable breeding program fo
 
 #### Graduate Students
 
-Up to three graduate (MS or PhD) student assistantships are available to start in the lab as soon as summer 2022. The students will reside in Clemson, SC in the first year of the graduate program to fulfill course requirements. Primary field and laboratory research will take place at the Clemson Pee Dee Research & Education Center, which is a 2,300 acre site located in Florence, SC that is positioned in the heart of SC agriculture.
+Available MS and PhD assistantships will be posted on the Clemson [Plant and Environmental Sciences Assistantship Openings](https://www.clemson.edu/cafls/plant-environmental-sciences/students/assistantships.html) site. Typically, graduate students will reside in Clemson, SC for the first year of the graduate program to fulfill course requirements. Primary field and laboratory research will take place at the Clemson Pee Dee Research & Education Center, a 2,300 acre site located in Florence, SC that is positioned in the heart of South Carolina agriculture.
 
-To apply, email a CV and a brief description of experience and career goals to Jenna Hershberger. Applications will be reviewed on a rolling basis (no formal deadline) with openings available as early as summer or fall 2022. For full admissions details, visit the [Online Graduate Application](https://www.clemson.edu/graduate/admissions/apply/).
+As members of our group, graduate students will gain knowledge in plant breeding, quantitative genetics, and data science. Collaborations across multi-disciplinary research groups will be expected, as will the pursuit of support from intramural or extramural fellowships. Both formal and informal training will be provided through group and individual meetings, conference and workshop attendance, and interactions with others in the lab and department.
+
+To apply, email a CV and a brief description of experience and career goals to Jenna Hershberger at [jmhersh@clemson.edu](mailto:jmhersh@clemson.edu). For full admissions details, visit the [Online Graduate Application](https://www.clemson.edu/graduate/admissions/apply/). Indicate interest in the Hershberger lab in the application.
+
+
+#### Postdocs
+
+There are currently no open postdoctoral positions in the lab. However, we would be happy to work with you to submit a fellowship proposal to programs such as the [NSF Postdoctoral Research Fellowships in Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or the [USDA NIFA AFRI Education and Workforce Development](https://www.nifa.usda.gov/grants/programs/afri-education-workforce-development). Submission and proposal information and deadlines vary by program, so it is highly recommended that interested individuals check the respective program websites frequently. If you are interested in applying for a fellowship, send your CV, cover letter, contact information for three references, and an outline of your proposal to Jenna Hershberger at [jmhersh@clemson.edu](mailto:jmhersh@clemson.edu). Please do this well in advance of the proposal deadline so that we have adequate time to prepare a competitive proposal.
 
 
 {% include section.html %}
