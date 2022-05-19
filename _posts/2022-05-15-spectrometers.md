@@ -6,14 +6,14 @@ author: Jenna Hershberger
 member: jenna-hershberger
 ---
 
-# Context
+# <i class="fas fa-seedling"></i> Context
 Maybe you've read about mobile spectrometers in the latest issue of your favorite journal, or maybe the lab down the hall can't stop talking about them at the department coffee hour. Regardless of how you first heard about them, mobile near-infrared spectrometers can seem too good to be true. Can you really predict the quality of your grain, fruit, or root non-destructively and without investing in a benchtop spectrometer that costs more than a brand new car?
 
 The answer is, of course, *it depends*. Which traits are you interested in predicting? What is your required accuracy and precision? Is there existing literature that successfully predicts your trait of interest with near-infrared spectroscopy? How much time are you willing to invest in protocol development? Do you have access to model training software or the coding skills to use a free R package? Do you have a plan for managing your data?
 
 And on top of these, there are spectrometer-specific questions to ask as well: What is your budget? Do you already have access to a laboratory-grade benchtop spectrometer through a collaborator or shared equipment at your organization? Given that most mobile spectrometers have more limited spectral ranges, can your trait of interest be predicted within the range measured by your desired mobile spectrometer (a brief literature search may give you a ballpark to aim for)? Is shipping available to your area? Can you get it in time for your planned experiment?
 
-Consider yourself warned -- model development can take a lot of time and effort. If you're short on time but flush with cash, you may want to consider using a more expensive spectrometer or another method entirely. If you're committed to the mobile spectrometer train, decide on your plan of attack early. Conduct a few pilot experiments to get your methods nailed down. Trust me, it's worth the upfront effort to avoid wasting effort with your full-scale data collection.
+Consider yourself warned -- model development can take a lot of time and effort. If you're short on time but flush with cash, you may want to consider using a more expensive spectrometer or another method entirely. If you're committed to the mobile spectrometer train, decide on your plan of attack early. Conduct a few pilot experiments to get your methods nailed down. Trust me, it's worth the upfront effort to avoid wasting time and resources with your full-scale data collection.
 
 # <i class="fas fa-lightbulb"></i> How do they work?
 
@@ -35,21 +35,21 @@ Consider yourself warned -- model development can take a lot of time and effort.
 Last updated May 2022
 
 # <i class="fas fa-laptop-code"></i> Software options
-### Free & open source
+**Free & open source**
 - [waves](https://CRAN.R-project.org/package=waves) (R package)
 - [Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&hl=en_US&gl=US) (Android app for spectral data collection)
 
-### Proprietary/purchase required
+**Proprietary/purchase required**
 - WinISI (Windows only)
 - [Unscrambler](https://www.aspentech.com/en/products/msc/aspen-unscrambler)
 
 # <i class="fas fa-book-open"></i> Further reading
 
-### Broad overview
+**Broad overview**
 - Pioneer Agronomy Resources: [Stretch Your Sampling Budget with NIRS](https://www.pioneer.com/us/agronomy/stretchbudgetNIRS.html)
 - Pioneer Agronomy Resources: [NIRS Analysis Has Long and Credible History](https://www.pioneer.com/us/agronomy/nirs.html)
 
-### In-depth overview
+**In-depth overview**
 - [Ciurczak, E. W., Igne, B., Workman Jr, J., & Burns, D. A. (Eds.). (2021). Handbook of near-infrared analysis. CRC press.](https://www.routledge.com/Handbook-of-Near-Infrared-Analysis/Ciurczak-Igne-Workman-Jr-Burns/p/book/9781138576483)
 - [Cortés, V., Blasco, J., Aleixos, N., Cubero, S., & Talens, P. (2019). Monitoring strategies for quality control of agricultural products using visible and near-infrared spectroscopy: A review. Trends in Food Science & Technology, 85, 138-148.](https://doi.org/10.1016/j.tifs.2019.01.015) (Sections 1-3 are general NIRS overview)
 - [Pasquini, C. (2003). Near infrared spectroscopy: fundamentals, practical aspects and analytical applications. Journal of the Brazilian chemical society, 14, 198-219.](https://doi.org/10.1590/S0103-50532003000200006)
