@@ -68,17 +68,6 @@ nav:
 We are always looking for talented, passionate people to join the lab! If you have a strong interest in quantitative genetics, plant breeding, vegetable quality characteristics, or data science, please get in touch!
 
 
-#### Vegetable Breeding Technician (Research Specialist II)
-
-We are hiring a technician to help start and run a vegetable breeding program focused on improving flavor and nutritional quality. This full time, in-person position will be located at the Clemson University Pee Dee Research & Education Center in Florence, SC.
-
- - Responsible for providing support to plant breeding laboratory and field research
- - Expected to assist in a variety of advanced analytical techniques and perform other duties as assigned
- - Apply by May 31, 2022
-
-{% include link.html type="external" link="https://jobs.clemson.edu/psc/ps/JOBS/EXT/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=106623&PostingSeq=1 " text="Apply Now" icon="" style="button" %}
-{:.center}
-
 
 #### Graduate Students
 

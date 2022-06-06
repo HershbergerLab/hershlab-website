@@ -52,7 +52,7 @@ We are working to characterize, understand, and improve nutritional quality and 
 %}
 
 {% capture text %}
-We're currently hiring graduate students and a technician. Find descriptions and applications links on our [Team page](team).
+We're currently hiring graduate students. Find descriptions and applications links on our [Team page](team).
 
 {%
   include link.html
