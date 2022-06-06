@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1002/csan.20750
+  title: Sweet Corn Transcriptome Pinpoints Vitamin Genes
+  authors: []
+  publisher: CSA News
+  date: '2022-05-03'
+  link: https://doi.org/gp9cp2
+  image: images/news/jenna_harvesting.JPG
+  extra-links:
+  - type: journal
+    link: https://doi.org/10.1002/csan.20750
+  tags:
+  - transcriptomics
+  - sweet corn
+  - nutritional quality
 - id: doi:10.1002/ppj2.20024
   title: "Prospector: A mobile application for portable, high\u2010throughput near\u2010\
     infrared spectroscopy phenotyping"
