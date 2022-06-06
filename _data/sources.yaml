@@ -1,3 +1,15 @@
+# CSA News sweet corn
+- id: doi:10.1002/csan.20750
+  image: images/news/jenna_harvesting.JPG
+  date: "2022-05-03"
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.1002/csan.20750
+  tags:
+    - transcriptomics
+    - sweet corn
+    - nutritional quality
+
 # prospector
 - id: doi:10.1002/ppj2.20024
   image: images/publications/prospector-icon.png
