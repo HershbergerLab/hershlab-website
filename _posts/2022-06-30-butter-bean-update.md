@@ -15,7 +15,7 @@ Here in June and July in South Carolina, butter beans are harvested green. Our t
 
 {%
   include figure.html
-  image="images/news/packhouse-combo.jpg"
+  image="images/news/packhouse-combo.png"
   caption="Shelling (left) and harvesting (right) beans at Packhouse Farms"
   width="100%"
 %}
