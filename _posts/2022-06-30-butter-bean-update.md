@@ -22,4 +22,4 @@ Here in June and July in South Carolina, butter beans are harvested green. Our t
 
 This summer, the Hershberger lab is putting in the leg work to learn the ins and outs of butter bean production and processing. We are sharpening our pollination skills, gathering germplasm, and setting up our protocols and lab space for the coming influx of beans. If anyone has an heirloom or favorite variety of butter beans, send some our way so we can try it out!
 
-Are you a butter bean grower in the Southeast? We would love to visit your operation! Please [reach out](contact) if you would be willing to partner in shaping the future of butter beans.
+Are you a butter bean grower in the Southeast? We would love to visit your operation! Please reach out if you would be willing to partner in shaping the future of butter beans.
