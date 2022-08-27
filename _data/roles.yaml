@@ -22,6 +22,10 @@ programmer:
   icon: fas fa-code
   text: Programmer
 
+technician:
+  icon: fas fa-screwdriver-wrench
+  text: Research Specialist
+
 mascot-d:
   icon: fas fa-dog
   text: Mascot
