@@ -1,6 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fpls.2022.990250
+  title: Predicting starch content in cassava fresh roots using near-infrared spectroscopy
+  authors:
+  - Edwige Gaby Nkouaya Mbanjo
+  - Jenna Hershberger
+  - Prasad Peteti
+  - Afolabi Agbona
+  - Andrew Ikpan
+  - Kayode Ogunpaimo
+  - Siraj Ismail Kayondo
+  - Racheal Smart Abioye
+  - Kehinde Nafiu
+  - Emmanuel Oladeji Alamu
+  - Michael Adesokan
+  - Busie Maziya-Dixon
+  - Elizabeth Parkes
+  - Peter Kulakow
+  - Michael A. Gore
+  - Chiedozie Egesi
+  - Ismail Yusuf Rabbi
+  publisher: Frontiers in Plant Science
+  date: '2022-11-08'
+  link: https://doi.org/grd24k
+  image: images/publications/mbanjo2022.jpg
+  extra-links:
+  - type: journal
+    link: https://doi.org/10.3389/fpls.2022.990250
+  tags:
+  - spectroscopy
+  - cassava
 - id: doi:10.1002/csan.20750
   title: Sweet Corn Transcriptome Pinpoints Vitamin Genes
   authors: []
