@@ -1,3 +1,14 @@
+# Cassava NIRS starch prediction
+- id: doi:10.3389/fpls.2022.990250
+  image: images/publications/mbanjo2022.jpg
+  date: "2022-11-08"
+  extra-links:
+    - type: journal
+      link: https://doi.org/10.3389/fpls.2022.990250
+  tags:
+   - spectroscopy
+   - cassava
+
 # CSA News sweet corn
 - id: doi:10.1002/csan.20750
   image: images/news/jenna_harvesting.JPG
