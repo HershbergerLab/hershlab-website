@@ -4,6 +4,8 @@ title: Home
 
 # Vegetable Breeding & Genetics at Clemson University
 
+{% include figure.html image="images/home/banner_butter_beans.png" width="100%" %}
+
 {% include section.html %}
 
 # Highlights
@@ -30,7 +32,7 @@ We strive to share our research with the broader scientific community, prioritiz
 %}
 
 {% capture text %}
-We are working to characterize, understand, and improve nutritional quality and flavor in vegetables. Stay tuned as we figure out *which* vegetables...
+We are working to characterize, understand, and improve nutritional quality and flavor in vegetables. So far, our focus is on butter beans and sweet corn.
 
 {%
   include link.html
@@ -44,7 +46,7 @@ We are working to characterize, understand, and improve nutritional quality and 
 
 {%
   include feature.html
-  image="images/home/carrot_flower.jpeg"
+  image="images/home/seedling.JPG"
   link="research"
   title="Our Research"
   flip=true
@@ -52,7 +54,7 @@ We are working to characterize, understand, and improve nutritional quality and 
 %}
 
 {% capture text %}
-We're currently hiring graduate students to start in spring, summer, or fall 2023. Find descriptions and applications links on our [Team page](team).
+We will soon be hiring a postdoctoral scholar to start in spring, 2023. Find descriptions and applications links on our [Team page](team).
 
 {%
   include link.html
