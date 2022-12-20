@@ -32,7 +32,7 @@ We strive to share our research with the broader scientific community, prioritiz
 %}
 
 {% capture text %}
-We are working to characterize, understand, and improve nutritional quality and flavor in vegetables. So far, our focus is on butter beans and sweet corn.
+We are working to characterize, understand, and improve nutritional quality and flavor in vegetables. Our current focus crops are butter beans and sweet corn.
 
 {%
   include link.html
