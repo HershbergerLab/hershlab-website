@@ -54,7 +54,7 @@ We are working to characterize, understand, and improve nutritional quality and 
 %}
 
 {% capture text %}
-We will soon be hiring a postdoctoral scholar to start in spring, 2023. Find descriptions and applications links on our [Team page](team).
+We are hiring a postdoctoral scholar to start in fall 2023. Find descriptions and applications links on our [Team page](team).
 
 {%
   include link.html

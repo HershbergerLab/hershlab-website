@@ -15,8 +15,6 @@ And on top of these, there are spectrometer-specific questions to ask as well: W
 
 Consider yourself warned -- model development can take a lot of time and effort. If you're short on time but flush with cash, you may want to consider using a more expensive spectrometer or another method entirely. If you're committed to the mobile spectrometer train, decide on your plan of attack early. Conduct a few pilot experiments to get your methods nailed down. Trust me, it's worth the upfront effort to avoid wasting time and resources with your full-scale data collection.
 
-# <i class="fas fa-lightbulb"></i> How do they work?
-
 # <i class="fas fa-camera"></i> Hardware comparison
 
 | Spectrometer                                                                                                                                        | Range (nm) | Firsthand experience                                                                                        | Connection                                                                        | Software                                                                                            |  Approximate price                                                | Other considerations                                                                                                                  |
