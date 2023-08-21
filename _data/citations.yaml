@@ -1,6 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.3389/fpls.2023.1177406
+  title: 'Sainfoin (Onobrychis spp.) crop ontology: supporting germplasm characterization
+    and international research collaborations'
+  authors:
+  - Ebrar Karabulut
+  - "K\xFCbra Erko\xE7"
+  - "Murat Ac\u0131"
+  - "Mahmut Ayd\u0131n"
+  - Spencer Barriball
+  - Jackson Braley
+  - Eric Cassetta
+  - Evan B. Craine
+  - Luis Diaz-Garcia
+  - Jenna Hershberger
+  - Bo Meyering
+  - Allison J. Miller
+  - Matthew J. Rubin
+  - Omar Tesdell
+  - Brandon Schlautman
+  - "Muhammet \u015Eakiro\u011Flu"
+  publisher: Frontiers in Plant Science
+  date: '2022-05-15'
+  link: https://doi.org/gsmsbh
+  image: images/publications/karabulut2023.jpg
+  extra-links:
+  - type: journal
+    link: https://doi.org/10.3389/fpls.2023.1177406
+  tags:
+  - legumes
+  - data management
 - id: doi:10.3389/fpls.2022.990250
   title: Predicting starch content in cassava fresh roots using near-infrared spectroscopy
   authors:
