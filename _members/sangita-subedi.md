@@ -1,6 +1,7 @@
 ---
 Name: Sangita Subedi
 description:
+Image: images/team/IMG_3857.jpg
 role: PhD
 aliases:
   - S Subedi
